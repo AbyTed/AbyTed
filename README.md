@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm a high school junior passionate about **coding**, **STEM**, and **math**. Currently, I'm building innovative apps, participating in hackathons, and mentoring budding programmers.
 
-![Profile Banner](https://your-banner-url-here.com)
-
 ---
 
 ## 🛠️ Tech Stack
