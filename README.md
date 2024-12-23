@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a high school junior passionate about **coding
 ---
 
 ## 📊 GitHub Stats
-![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbyTd&show_icons=true&theme=radical)
+![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbyTed&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbyTed&layout=compact&theme=radical)
 
 ---
