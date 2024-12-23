@@ -35,9 +35,12 @@ Welcome to my GitHub profile! I'm a high school junior passionate about **coding
 
 ---
 
-## 🚧 Current Projects
+## 🎨 Profile Visits
+
+![Visitor Count](https://profile-counter.glitch.me/mowhn/count.svg)
 
 ---
+
 
 ## 📊 GitHub Stats
 ![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbyTed&show_icons=true&theme=radical)
