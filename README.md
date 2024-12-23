@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm a high school junior passionate about **coding
 ## 🛠️ Tech Stack  
 - **Languages**: Python, JavaScript, Java, SQL, C++, HTML, CSS, Bash  
 - **Frameworks/Libraries**: Flask, Django, React, Vue, Node.js, Selenium, Tkinter, Bootstrap  
-- **Tools**: Git, Docker, VS Code, Postman, Firebase, Heroku, Jenkins, Linux CLI  
+- **Tools**: Git, Docker, VS Code, Postman, Firebase, Heroku, Linux CLI  
 - **Databases**: MySQL, MongoDB, SQLite  
-- **Other Skills**: Data Structures and Algorithms (DSA), Debugging, UI/UX Design, RESTful APIs, System Design, Agile Development  
+- **Other Skills**: Data Structures and Algorithms (DSA), Debugging, UI/UX Design, RESTful APIs, System Design
 
 ---
 
