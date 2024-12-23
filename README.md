@@ -1,18 +1,25 @@
 # Hi there! 👋 I'm Abraham 
 
-Welcome to my GitHub profile! I'm a high school junior passionate about **coding**, **STEM**, and **math**. Currently, I'm building innovative apps, participating in hackathons, and mentoring budding programmers.
+Welcome to my GitHub profile! I'm a high school junior passionate about **coding**, **STEM**, and **math**. Currently, I'm building innovative apps, participating in hackathons, and learning as much as I can.
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages**: Python, JavaScript, Java, SQL
-- **Frameworks/Libraries**: Flask, React, Selenium, Tkinter
-- **Tools**: Git, Docker, VS Code
-- **Other Skills**: DSA, Debugging, UI/UX Design, System Design
+## 🛠️ Tech Stack  
+- **Languages**: Python, JavaScript, Java, SQL, C++, HTML, CSS, Bash  
+- **Frameworks/Libraries**: Flask, Django, React, Vue, Node.js, Selenium, Tkinter, Bootstrap  
+- **Tools**: Git, Docker, VS Code, Postman, Firebase, Heroku, Jenkins, Linux CLI  
+- **Databases**: MySQL, MongoDB, SQLite  
+- **Other Skills**: Data Structures and Algorithms (DSA), Debugging, UI/UX Design, RESTful APIs, System Design, Agile Development  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+---
+
+### Frameworks & Tools
+
+![Languages](https://img.shields.io/badge/-Python_JavaScript_Java_SQL_C++-blueviolet?style=for-the-badge)
+![Frameworks](https://img.shields.io/badge/-Flask_Django_React_Node.js-ff69b4?style=for-the-badge)
+![Tools](https://img.shields.io/badge/-Git_Docker_VS_Code_Postman-Lime?style=for-the-badge)
+
+---
 
 ---
 
