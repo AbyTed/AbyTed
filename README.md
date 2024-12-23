@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I'm a high school junior passionate about **coding
 ---
 
 ## 🚧 Current Projects
-- **[Blue Tutor](https://github.com/AbyTed/blue-tutor)**: A tutoring app for students (Grades 3-8) with reading and math assistance.
 
 ---
 
@@ -30,8 +29,8 @@ Welcome to my GitHub profile! I'm a high school junior passionate about **coding
 ---
 
 ## 🌟 Fun Facts
-- 🎮 I love playing Monopoly with my 4-year-old sibling.
-- 🌌 Anime brings me nostalgia from 8th-9th grade days.
+- 💤 Catching those ZZZ
+- 🌌 Hunter X Hunter.
 - 🍕 Pineapple on pizza? Yes, please!
 
 ---
