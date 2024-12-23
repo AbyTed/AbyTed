@@ -35,19 +35,17 @@ Welcome to my GitHub profile! I'm a high school junior passionate about **coding
 
 ---
 
-## 🎨 Profile Visits
-
-![Visitor Count](https://profile-counter.glitch.me/mowhn/count.svg)
-
----
-
-
 ## 📊 GitHub Stats
 ![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbyTed&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbyTed&layout=compact&theme=radical)
 
 ---
 
+## 🎨 Profile Visits
+
+![Visitor Count](https://profile-counter.glitch.me/AbyTed/count.svg)
+
+---
 ## 🌟 Fun Facts
 - 💤 Catching those ZZZ
 - 🌌 Hunter X Hunter.
