@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a high school junior passionate about **coding
 
 ## 🛠️ Tech Stack
 - **Languages**: Python, JavaScript, Java, SQL
-- **Frameworks/Libraries**: Flask, React, Selenium
+- **Frameworks/Libraries**: Flask, React, Selenium, Tkinter
 - **Tools**: Git, Docker, VS Code
-- **Other Skills**: DSA, Debugging, UI/UX Design
+- **Other Skills**: DSA, Debugging, UI/UX Design, System Design
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
