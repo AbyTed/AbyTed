@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Abraham 
 
-Welcome to my GitHub profile! I'm a high school junior passionate about **coding**, **STEM**, and **math**. Currently, I'm building innovative apps, participating in hackathons, and learning as much as I can.
+Welcome to my GitHub profile! I'm a high school Senior passionate about **coding**, **STEM**, and **math**. Currently, I'm building innovative apps, participating in hackathons, and learning as much as I can.
 
 ---
 
