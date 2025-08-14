@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a high school junior passionate about **coding
 ## 🌟 Fun Facts
 - 💤 Catching those ZZZ
 - 🌌 Hunter X Hunter.
-- 🍕 Pineapple on pizza? Yes, please!
+- 🍕 Buffalo Chicken Pizza!
 
 ---
 
