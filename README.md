@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a high school Senior passionate about **coding
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages**: Python, JavaScript, Java, SQL, C++, HTML, CSS  
+- **Languages**: Python, JavaScript, Java, SQL, C/C++, HTML, CSS  
 - **Frameworks/Libraries**: Flask, Django, React, Vue, Node.js, Selenium, Tkinter 
 - **Tools**: Git, Docker, VS Code, Postman, Firebase, Heroku, Linux CLI, Vercel  
 - **Databases**: MySQL, MongoDB, SQLite  
