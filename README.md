@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a high school Senior passionate about **coding
 
 ## 🎨 Profile Visits
 
-![Visitor Count](https://profile-counter.glitch.me/AbyTed/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=AbyTed&style=for-the-badge&color=blue)
 
 ---
 ## 🌟 Fun Facts
